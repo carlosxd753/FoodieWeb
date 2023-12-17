@@ -1,8 +1,6 @@
-# React + Vite
+FoodieWeb
+Webpage made with React, TailwindCSS about dishes for a restaurant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Image](https://i.ibb.co/PQPfX2s/foodie-web.png)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Check here](https://foodie-web-roseeilis.netlify.app/)
